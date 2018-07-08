@@ -8,8 +8,8 @@ permalink: /resume/
 **Advanced Marketing Certificate 	 	 	 	 	 	 	        April 2018**
 **University of Toronto, School of Continue Education, Toronto, ON**
 *	Developed digital marketing and communication skills with practical assignments
-Honours Bachelor of Arts 	 	 	 	 	 	 	 	        May 2015
-Major in Economics, McMaster University, Hamilton, ON
+**Honours Bachelor of Arts 	 	 	 	 	 	 	 	        May 2015
+Major in Economics, McMaster University, Hamilton, ON**
 *	Developed critical thinking skills for solving real world problems
 *	Learned how to adapt to new situations to find optimal outcomes
 *	Adopted a cost versus benefit mindset
