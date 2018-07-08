@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+Recently completed an Advanced Marketing certificate from the University of Toronto School of Continuing Studies. With a background in IT sales I am looking change industry and work as a marketer. With a particular interest in renewable energy I am pursue additional education and certification to expand my knowledge in the area.
 
 ## Education
 
@@ -25,27 +21,27 @@ Founder, ABC Organisation
 * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
+* **Skill 4** - `Skill` / `Skill` / `Skill`
 * **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
+* **Skill 6** - `Skill` / `Skill`
+
+
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
-   
+* [**This is my first achievement**](#)
+
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**This is my second achievement**](#)
 
     Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my third achievement**](#) 
+* [**This is my third achievement**](#)
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
