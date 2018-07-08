@@ -6,13 +6,6 @@ layout: blog
   <div class="entry">
     {{ content }}
   </div>
-
-  {% include disqus.html %}
-</article>
-<head>
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
-  {% include meta.html %}
   <div class="intro-header">
       <div class="wrapper-masthead">
        <div class="container">
@@ -29,6 +22,14 @@ layout: blog
          </header>
        </div>
      </div>
+
+  {% include disqus.html %}
+</article>
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+  {% include meta.html %}
+
   </div>
 
 
