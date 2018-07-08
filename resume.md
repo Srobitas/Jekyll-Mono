@@ -12,7 +12,8 @@ Honours Bachelor of Arts 	 	 	 	 	 	 	 	        May 2015
 Major in Economics, McMaster University, Hamilton, ON
 *	Developed critical thinking skills for solving real world problems
 *	Learned how to adapt to new situations to find optimal outcomes
-*	Adapted a cost versus benefit mindset
+*	Adopted a cost versus benefit mindset
+
 **Business Studies Certificate 	 	 	 	 	 	 	        May 2015**
 **Mohawk College, Hamilton, ON**
 *	Achieved an understanding of business operations
