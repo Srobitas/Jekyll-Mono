@@ -8,5 +8,3 @@ Recently completed an Advanced Marketing certificate from the University of Toro
 
 ![About avatar](/images/avatar.png)
 Format: ![Alt Text](Spencer Robitaille bitmoji)
-
-[<img src="{{ site.baseurl }}/images/avatar.png" alt="Spencer Robitaille bitmoji" style="width: 220;" Class="center"/>]({{ site.baseurl }}/)
