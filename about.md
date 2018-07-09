@@ -8,6 +8,6 @@ Recently completed an Advanced Marketing certificate from the University of Toro
 
 <p align="center">
 
-<img src="{{ site.baseurl }}/images/avatar.png" alt="Spencer Robitaille bitmoji" style="width: 220;" Class="center"/> {{ site.baseurl }}
+<img src="{{ site.baseurl }}/images/avatar.png" alt="Spencer Robitaille bitmoji" style="width: 180;" Class="center"/>]({{ site.baseurl }}
 
 </p>
