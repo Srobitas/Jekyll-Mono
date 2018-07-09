@@ -3,8 +3,9 @@ layout: pagelayout
 title: About
 permalink: /about/
 ---
-
+<p>
 Recently completed an Advanced Marketing certificate from the University of Toronto School of Continuing Studies. With a background in IT sales I am looking change industry and work as a marketer. With a particular interest in renewable energy I am pursue additional education and certification to expand my knowledge in the area.
-
-![About avatar](/images/avatar.png)
-Format: ![Alt Text](Spencer Robitaille bitmoji)
+</p>
+<div style="center;">
+  (/images/avatar.png)
+</div>
